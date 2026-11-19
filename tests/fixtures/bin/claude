@@ -1,0 +1,2 @@
+#!/usr/bin/env node
+// stand-in for an npm-installed CLI; it is never executed by the tests
